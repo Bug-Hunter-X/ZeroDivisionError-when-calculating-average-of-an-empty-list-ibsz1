@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common Python coding error: the `ZeroDivisionError` that occurs when calculating an average of an empty list. The `bug.py` file shows the erroneous code.  The `bugSolution.py` provides a corrected version that includes a check for an empty list, preventing the error.
